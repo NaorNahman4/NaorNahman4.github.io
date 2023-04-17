@@ -1,0 +1,17 @@
+.upper-bg{
+    background-color:#aa96da;
+    height: 100px;
+    width: 100%;
+    position: relative;
+}
+.body{
+    background-color : #c5fad5;
+} 
+.form-container{
+    background-color: #ffffd2;
+    top:10%;
+    left: 15%;
+    position:absolute;
+    width: 70%;
+    height: 75%;
+}
